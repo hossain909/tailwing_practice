@@ -1,4 +1,8 @@
 {
   "css.validate": false,
-  "tailwindCSS.emmetCompletions": true
+  "tailwindCSS.emmetCompletions": true,
+  "editor.defaultFormatter": null,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
 }
